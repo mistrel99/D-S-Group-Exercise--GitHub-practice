@@ -1,3 +1,3 @@
 # D&S Group Exercise: GitHub practice
  MSIS
-huang263
+GriffinThomas777, huang263,
