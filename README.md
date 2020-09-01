@@ -1,3 +1,7 @@
 # D&S Group Exercise: GitHub practice
- MSIS
- mistrel
+MSIS
+GriffinThomas777
+mistrel
+
+
+
